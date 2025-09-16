@@ -1,0 +1,406 @@
+{
+    "_checkpoint": {
+        "global_record": {
+            "index": -1,
+            "infractions": {
+                "collisions_layout": 0.0,
+                "collisions_pedestrian": 0.03821250757630692,
+                "collisions_vehicle": 0.02818206631430589,
+                "outside_route_lanes": 0.0,
+                "red_light": 0.02691619965875182,
+                "route_dev": 0.0,
+                "route_timeout": 0.0,
+                "stop_infraction": 0.0,
+                "vehicle_blocked": 0.0
+            },
+            "meta": {
+                "exceptions": [
+                    [
+                        "RouteScenario_16",
+                        0,
+                        "Completed"
+                    ],
+                    [
+                        "RouteScenario_17",
+                        1,
+                        "Completed"
+                    ],
+                    [
+                        "RouteScenario_18",
+                        2,
+                        "Completed"
+                    ],
+                    [
+                        "RouteScenario_19",
+                        3,
+                        "Completed"
+                    ],
+                    [
+                        "RouteScenario_20",
+                        4,
+                        "Completed"
+                    ],
+                    [
+                        "RouteScenario_21",
+                        5,
+                        "Completed"
+                    ],
+                    [
+                        "RouteScenario_22",
+                        6,
+                        "Completed"
+                    ],
+                    [
+                        "RouteScenario_23",
+                        7,
+                        "Completed"
+                    ],
+                    [
+                        "RouteScenario_24",
+                        8,
+                        "Completed"
+                    ],
+                    [
+                        "RouteScenario_25",
+                        9,
+                        "Completed"
+                    ]
+                ]
+            },
+            "route_id": -1,
+            "scores": {
+                "score_composed": 59.05,
+                "score_penalty": 0.5904999999999999,
+                "score_route": 100.0
+            },
+            "status": "Failed"
+        },
+        "progress": [
+            10,
+            10
+        ],
+        "records": [
+            {
+                "index": 0,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [
+                        "Agent collided against object with type=walker.pedestrian.0002 and id=263 at (x=-54.572, y=-16.784, z=0.088), at time=73.95000110194087"
+                    ],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 503.75000750645995,
+                    "duration_system": 26554.537984609604,
+                    "route_length": 1071.0281341479306
+                },
+                "route_id": "RouteScenario_16",
+                "scores": {
+                    "score_composed": 50.0,
+                    "score_penalty": 0.5,
+                    "score_route": 100.0
+                },
+                "status": "Completed"
+            },
+            {
+                "index": 1,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 259.9000038728118,
+                    "duration_system": 13766.07730126381,
+                    "route_length": 862.4300893683893
+                },
+                "route_id": "RouteScenario_17",
+                "scores": {
+                    "score_composed": 100.0,
+                    "score_penalty": 1.0,
+                    "score_route": 100.0
+                },
+                "status": "Completed"
+            },
+            {
+                "index": 2,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [
+                        "Agent collided against object with type=walker.pedestrian.0024 and id=235 at (x=-32.485, y=88.012, z=0.033), at time=333.9500049762428"
+                    ],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 580.6000086516142,
+                    "duration_system": 24449.14099597931,
+                    "route_length": 1018.1548091661475
+                },
+                "route_id": "RouteScenario_18",
+                "scores": {
+                    "score_composed": 50.0,
+                    "score_penalty": 0.5,
+                    "score_route": 100.0
+                },
+                "status": "Completed"
+            },
+            {
+                "index": 3,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 436.1000064983964,
+                    "duration_system": 23886.285417556763,
+                    "route_length": 1651.1240425772803
+                },
+                "route_id": "RouteScenario_19",
+                "scores": {
+                    "score_composed": 100.0,
+                    "score_penalty": 1.0,
+                    "score_route": 100.0
+                },
+                "status": "Completed"
+            },
+            {
+                "index": 4,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [
+                        "Agent collided against object with type=vehicle.mustang.mustang and id=332 at (x=38.138, y=-5.962, z=0.033), at time=263.6000039279461"
+                    ],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 476.250007096678,
+                    "duration_system": 18362.12082028389,
+                    "route_length": 1247.5247794196757
+                },
+                "route_id": "RouteScenario_20",
+                "scores": {
+                    "score_composed": 60.0,
+                    "score_penalty": 0.6,
+                    "score_route": 100.0
+                },
+                "status": "Completed"
+            },
+            {
+                "index": 5,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 300.3000044748187,
+                    "duration_system": 11862.91784286499,
+                    "route_length": 531.0775144021973
+                },
+                "route_id": "RouteScenario_21",
+                "scores": {
+                    "score_composed": 100.0,
+                    "score_penalty": 1.0,
+                    "score_route": 100.0
+                },
+                "status": "Completed"
+            },
+            {
+                "index": 6,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [],
+                    "collisions_vehicle": [
+                        "Agent collided against object with type=vehicle.diamondback.century and id=219 at (x=-254.777, y=5.234, z=0.035), at time=247.80000369250774",
+                        "Agent collided against object with type=vehicle.lincoln.mkz2017 and id=265 at (x=-68.027, y=94.024, z=0.034), at time=478.9000071361661"
+                    ],
+                    "outside_route_lanes": [],
+                    "red_light": [],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 615.5000091716647,
+                    "duration_system": 28302.95895934105,
+                    "route_length": 991.7588080369975
+                },
+                "route_id": "RouteScenario_22",
+                "scores": {
+                    "score_composed": 36.0,
+                    "score_penalty": 0.36,
+                    "score_route": 100.0
+                },
+                "status": "Completed"
+            },
+            {
+                "index": 7,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [
+                        "Agent collided against object with type=walker.pedestrian.0008 and id=267 at (x=-107.193, y=84.413, z=0.033), at time=214.55000319704413"
+                    ],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [
+                        "Agent ran a red light 153 at (x=21.25, y=-78.85, z=0.0) at time=13.350000198930502",
+                        "Agent ran a red light 162 at (x=-113.15, y=11.6, z=0.0) at time=443.90000661462545"
+                    ],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 456.7000068053603,
+                    "duration_system": 27113.893081903458,
+                    "route_length": 1271.9079656924944
+                },
+                "route_id": "RouteScenario_23",
+                "scores": {
+                    "score_composed": 24.499999999999996,
+                    "score_penalty": 0.24499999999999997,
+                    "score_route": 100.0
+                },
+                "status": "Completed"
+            },
+            {
+                "index": 8,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [
+                        "Agent collided against object with type=walker.pedestrian.0007 and id=247 at (x=-120.447, y=-128.232, z=0.036), at time=206.90000308305025"
+                    ],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [
+                        "Agent ran a red light 184 at (x=-201.55, y=12.45, z=0.0) at time=506.2000075429678"
+                    ],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 1085.4000161737204,
+                    "duration_system": 60771.11361718178,
+                    "route_length": 2101.2027349873474
+                },
+                "route_id": "RouteScenario_24",
+                "scores": {
+                    "score_composed": 35.0,
+                    "score_penalty": 0.35,
+                    "score_route": 100.0
+                },
+                "status": "Completed"
+            },
+            {
+                "index": 9,
+                "infractions": {
+                    "collisions_layout": [],
+                    "collisions_pedestrian": [
+                        "Agent collided against object with type=walker.pedestrian.0009 and id=214 at (x=-259.891, y=-3.996, z=0.034), at time=587.2000087499619"
+                    ],
+                    "collisions_vehicle": [],
+                    "outside_route_lanes": [],
+                    "red_light": [
+                        "Agent ran a red light 184 at (x=-201.55, y=12.45, z=0.0) at time=653.7000097408891"
+                    ],
+                    "route_dev": [],
+                    "route_timeout": [],
+                    "stop_infraction": [],
+                    "vehicle_blocked": []
+                },
+                "meta": {
+                    "duration_game": 697.3500103913248,
+                    "duration_system": 21959.22309231758,
+                    "route_length": 1554.57833961516
+                },
+                "route_id": "RouteScenario_25",
+                "scores": {
+                    "score_composed": 35.0,
+                    "score_penalty": 0.35,
+                    "score_route": 100.0
+                },
+                "status": "Completed"
+            }
+        ]
+    },
+    "eligible": true,
+    "entry_status": "Finished",
+    "labels": [
+        "Avg. driving score",
+        "Avg. route completion",
+        "Avg. infraction penalty",
+        "Collisions with pedestrians",
+        "Collisions with vehicles",
+        "Collisions with layout",
+        "Red lights infractions",
+        "Stop sign infractions",
+        "Off-road infractions",
+        "Route deviations",
+        "Route timeouts",
+        "Agent blocked"
+    ],
+    "sensors": [
+        "carla_camera",
+        "carla_camera",
+        "carla_camera",
+        "carla_lidar",
+        "carla_imu",
+        "carla_gnss",
+        "carla_speedometer"
+    ],
+    "values": [
+        "59.050",
+        "100.000",
+        "0.590",
+        "0.038",
+        "0.028",
+        "0.000",
+        "0.027",
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000",
+        "0.000"
+    ]
+}
