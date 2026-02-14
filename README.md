@@ -15,7 +15,7 @@
   <img src="assets/m4pc.gif" width="45%" alt="With M4PC"/>
 </p>
 <p align="center">
-  <sub><b>Left:</b> Interfuser Baseline running a red light &nbsp;|&nbsp; <b>Right:</b> Interfuser + M4PC (Plugin) stopping at red light</sub>
+  <sub><b>Left:</b> Interfuser Baseline running a red light &nbsp;|&nbsp; <b>Right:</b> Interfuser + M4PC (GT) stopping at red light</sub>
 </p>
 
 ---
