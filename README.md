@@ -2,7 +2,7 @@
 
 *Accepted at ICRA 2026*
 
-[Paper (coming soon)] | [Jupyter Notebook](results.ipynb) | License: MIT
+[Paper (coming soon)] | [Pre-print](https://felipetoledo4815.github.io/files/publications/ICRA26_M4PC.pdf) | [Jupyter Notebook](results.ipynb) | License: MIT
 
 **Authors:** Felipe Toledo, Trey Woodlief, Sebastian Elbaum, and Matthew B. Dwyer  
 *University of Virginia* — *William & Mary*
